@@ -1,3 +1,22 @@
 body {
+    background-image: url("../images/memphis-mini.png"); /* added background image since last commit */
     
+
+}
+
+
+.content-box {
+    width: 960px;
+    background-color: white;  /* added background color of content-box since last commit */
+    border: solid #E8B7A2;  /* added border to content-box since last commit */
+    padding: 20px;  /* added padding to content-box since last commit */
+}
+
+footer {
+    margin: 20px;  /* added margin since last commit */
+    width: 960px;
+    padding: 20px;
+    background-color: #4aaaa5;
+    text-align: center;
+    font-size: 14px;
 }
